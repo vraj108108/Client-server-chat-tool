@@ -1,6 +1,6 @@
 # Client-Server-Chat-Application
-This is a simple client-server chat application developed in nodeJS
-
+This is a simple client-server chat tool developed in nodeJS
+by : vraj108
 #Installation
 
 1.Get it locally:
